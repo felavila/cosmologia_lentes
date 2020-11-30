@@ -1,3 +1,15 @@
+#dudas
+como un externo puede hacer una peticion?
+
+#para iniciar??
+git init
+#para agregar o quitar
+git add/git remove
+#para saber que esta pasando en el workflow
+git status
+#para aceptar cambios
+git commit -m "segundoedit"
+#para subir a github
 git remote add origin https://github.com/felavila/cosmologia_lentes.git
 git branch -M main
 git push -u origin main
